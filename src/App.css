@@ -1,0 +1,26 @@
+#root{
+  background-image: url('https://www.avalancheassociation.ca/resource/resmgr/itp_/P1000445_lowres.jpg');
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  height: 100%;
+  width: 100vw;
+  background-size:cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+
+  
+  }
+
+  .card{
+    overflow: auto;
+    padding: 2em 1em;
+    max-width: 350px;
+    background-color: #ffffff80;
+    border-radius: 15px;
+    text-align: center;
+    backdrop-filter: brightness(1) blur(5px);
+    
+
+  }
